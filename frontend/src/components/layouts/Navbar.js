@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import { Link } from "react-router-dom";
 
 export default function Navbar() {
   const [nav, setNav] = useState(false);
@@ -18,13 +19,13 @@ export default function Navbar() {
             />
           </div>
           <div className="flex items-center justify-center">
-            <h2 className="text-xl  text-mywhite cursor-pointer">
+            <Link to="/login" className="text-mywhite cursor-pointer">
               Account <i className="fa-regular fa-user"></i>
-            </h2>
+            </Link>
           </div>
 
           <div className="flex items-center justify-center">
-            <h2 className="text-xl text-mywhite cursor-pointer">
+            <h2 className="  text-mywhite cursor-pointer">
               Cart <i className="fa-solid fa-basket-shopping"></i>
             </h2>
           </div>
@@ -54,9 +55,12 @@ export default function Navbar() {
             />
           </div>
           <div className="flex items-center justify-center my-3">
-            <h2 className=" py-2 w-4/5 sm:w-3/5 border-2 text-mywhite cursor-pointer">
+            <Link
+              to="/login"
+              className=" py-2 w-4/5 sm:w-3/5 border-2 text-mywhite cursor-pointer"
+            >
               <i className="fa-regular fa-user"></i> Account
-            </h2>
+            </Link>
           </div>
           <div className="flex items-center justify-center my-3">
             <h2 className="py-2 border-2 w-4/5 sm:w-3/5 text-mywhite cursor-pointer">
