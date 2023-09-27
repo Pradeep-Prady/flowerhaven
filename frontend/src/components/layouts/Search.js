@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { useLocation, useNavigate } from "react-router-dom";
 
-export default function Search({ setNavOpen }) {
+export default function Search({ setNavOpenFun }) {
   const navigate = useNavigate();
   const location = useLocation();
 
@@ -10,7 +10,7 @@ export default function Search({ setNavOpen }) {
   const searchHandler = (e) => {
     e.preventDefault();
     navigate(`/search/${keyword}`);
-    setNavOpen(false);
+    setNavOpenFun(false);
   };
   const clearKeyword = () => {
     setKeyword("");

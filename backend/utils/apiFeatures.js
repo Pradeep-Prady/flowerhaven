@@ -15,16 +15,15 @@ class APIFeatures {
       : {};
 
     this.query.find({ ...keyword });
-
     return this;
   }
 
   filter() {
     const queryStrCopy = { ...this.queryStr };
 
-    // remove fields from query
-    const removefields = ["keyword", "limit", "page"];
-    removefields.forEach((field) => delete queryStrCopy[field]);
+    //remove fiels from query
+    const removefiels = ["keyword", "limit", "page"];
+    removefiels.forEach((field) => delete queryStrCopy[field]);
 
     let queryStr = JSON.stringify(queryStrCopy);
     queryStr = queryStr.replace(/\b(gt|gte|lt|lte)/g, (match) => `$${match}`);
@@ -36,12 +35,10 @@ class APIFeatures {
 
   paginate(resPerPage) {
     const currentPage = Number(this.queryStr.page) || 1;
-    const skip = resPerPage * (currentPage -1);
+    const skip = resPerPage * (currentPage - 1);
     this.query.limit(resPerPage).skip(skip);
-
     return this;
   }
 }
-
 
 module.exports = APIFeatures;
