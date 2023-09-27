@@ -38,7 +38,6 @@ export default function Profile() {
           <div className="text-center mt-5 w-full">
             <p className=""> {user?.name}</p>
             <p className="my-3"> {user?.email}</p>
-            <p className="my-3"> pradeepprady2202@gmail.com</p>
 
             <div className="flex items-center my-5 justify-between">
               <Link to="/profile/update" className="btn">
