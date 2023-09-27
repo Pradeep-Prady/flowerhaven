@@ -18,8 +18,10 @@ export default function ConfirmOrder() {
   );
   const shippingPrice = itemsPrice > 500 ? 0 : 50;
   let taxPrice = Number(0.05 * itemsPrice);
-  let totalPrice = Number(itemsPrice + shippingPrice * taxPrice).toFixed(2);
+  // let totalPrice = Number(itemsPrice + shippingPrice * taxPrice).toFixed(2);
   taxPrice = Number(taxPrice).toFixed(2);
+
+  let totalPrice = itemsPrice + shippingPrice + Number(taxPrice);
 
   const processPayment = () => {
     const data = {
@@ -35,6 +37,8 @@ export default function ConfirmOrder() {
   useEffect(() => {
     validateShipping(shippingInfo, navigate);
   });
+
+  console.log(totalPrice);
 
   return (
     <>

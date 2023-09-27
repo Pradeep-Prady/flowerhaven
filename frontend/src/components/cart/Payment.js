@@ -99,7 +99,7 @@ export default function Payment() {
         document.querySelector("#pay_btn").disabled = false;
       } else {
         if ((await result).paymentIntent.status === "succeeded") {
-          toast.error("Payment Success!", {
+          toast.success("Payment Success!", {
             position: "bottom-center",
             duration: 2000,
             style: {
