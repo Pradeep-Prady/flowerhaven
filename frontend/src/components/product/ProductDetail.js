@@ -27,7 +27,7 @@ export default function ProductDetail() {
 
   const { id } = useParams();
 
-  const [quantity, setQuantity] = useState(1);
+  const [quantity, setQuantity] = useState(0);
 
   const increaseQty = () => {
     const count = document.querySelector(".count");
@@ -49,7 +49,7 @@ export default function ProductDetail() {
   const handleClose = () => setShow(false);
   const handleShow = () => setShow(true);
 
-  const [rating, setRating] = useState(product?.ratings);
+  const [rating, setRating] = useState(1);
   const [star, setStar] = useState(null);
   const [hov, setHov] = useState(null);
 
@@ -108,6 +108,8 @@ export default function ProductDetail() {
   useEffect(() => {
     dispatch(getProduct(id));
   }, [dispatch, id]);
+
+  console.log(product.ratings)
 
   return (
     <>
@@ -196,7 +198,7 @@ export default function ProductDetail() {
                     <div className="mx-5">
                       <p>
                         {" "}
-                        {product.ratings / 10}
+                        {product.ratings }
                         <i className="fa-solid fa-star text-yellow-400 px-1"></i>
                         Ratings
                       </p>
@@ -270,7 +272,7 @@ export default function ProductDetail() {
               </div>
 
               <div className="mx-5">
-                <div>
+                <div className="">
                   {product.reviews && product.reviews.length > 0 ? (
                     <ProductReviews reviews={product.reviews} />
                   ) : null}
@@ -283,19 +285,4 @@ export default function ProductDetail() {
     </>
   );
 }
-
-function StarRating({ rating }) {
-  const maxStars = 5;
-  const fullStars = Math.floor(rating);
-  const halfStar = rating - fullStars >= 0.5;
-  const emptyStars = maxStars - fullStars - (halfStar ? 1 : 0);
-
-  return (
-    <div>
-      {"★".repeat(fullStars)}
-      {halfStar && "½"}
-      {"☆".repeat(emptyStars)}
-      {"*".repeat(fullStars)}
-    </div>
-  );
-}
+ 

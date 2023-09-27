@@ -69,7 +69,7 @@ const productSchema = new mongoose.Schema({
         ref: "User",
       },
       rating: {
-        type: String,
+        type: Number,
         required: true,
       },
       comment: {
@@ -87,7 +87,6 @@ const productSchema = new mongoose.Schema({
     default: Date.now(),
   },
 });
-
 
 let schema = mongoose.model("Product", productSchema);
 

@@ -24,8 +24,6 @@ exports.getProducts = catchAsyncError(async (req, res, next) => {
 
   const products = await buildQuery().paginate(resPerPage).query;
 
-  
-
   res.status(200).json({
     success: true,
     count: productsCount,
@@ -167,6 +165,9 @@ exports.createReview = catchAsyncError(async (req, res, next) => {
     product.reviews.push(review);
     product.numOfReviews = product.reviews.length;
   }
+  console.log(product.ratings);
+  console.log(product);
+
 
   // find the averagge of product reviews
   product.ratings =
@@ -175,6 +176,7 @@ exports.createReview = catchAsyncError(async (req, res, next) => {
     }, 0) / product.reviews.length;
 
   product.ratings;
+  console.log(product.ratings);
 
   product.ratings = isNaN(product.ratings) ? 0 : product.ratings;
 
