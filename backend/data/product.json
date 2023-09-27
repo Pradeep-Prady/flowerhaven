@@ -1,50 +1,50 @@
 [
   {
     "name": "Pink and Red Alstroemeria",
-    "price": 440,
+    "price": 240,
     "description": "Alstroemeria also known as the Peruvian lily or lily of the Incas, these flowers have vibrant, multicolored petals.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Alstroemeria/farrinni-SNf8_hpexVA-unsplash-min.jpg"
+        "image": "/images/products/Alstroemeria/farrinni-SNf8_hpexVA-unsplash-min.jpg"
       }
     ],
     "category": "Alstroemeria",
     "seller": "John",
-    "stock": 9,
-    "numOfReviews": 12,
+    "stock": 19,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "White Alstroemeria",
     "price": 400,
     "description": "Alstroemeria also known as the Peruvian lily or lily of the Incas, these flowers have vibrant, multicolored petals.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Alstroemeria/pexels-jonathan-nenemann-5304840-min.jpg"
+        "image": "/images/products/Alstroemeria/pexels-jonathan-nenemann-5304840-min.jpg"
       }
     ],
     "category": "Alstroemeria",
     "seller": "John",
     "stock": 9,
-    "numOfReviews": 12,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Yellow Alstroemeria",
     "price": 420,
     "description": "Alstroemeria also known as the Peruvian lily or lily of the Incas, these flowers have vibrant, multicolored petals.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Alstroemeria/tatiana-briday-OBqnjpIhnEc-unsplash-min.jpg"
+        "image": "/images/products/Alstroemeria/tatiana-briday-OBqnjpIhnEc-unsplash-min.jpg"
       }
     ],
     "category": "Alstroemeria",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
 
@@ -52,288 +52,288 @@
     "name": "Light Pink Carnations",
     "price": 420,
     "description": "Carnations are available in a variety of colors and are often used in mixed bouquets.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Carnations/aleksandra-sapozhnikova-lWuI2fcXCjY-unsplash-min.jpg"
+        "image": "/images/products/Carnations/aleksandra-sapozhnikova-lWuI2fcXCjY-unsplash-min.jpg"
       }
     ],
     "category": "Carnations",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Pink Carnations",
     "price": 420,
     "description": "Carnations are available in a variety of colors and are often used in mixed bouquets.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Carnations/ellie-ellien-v4HtGKurxDk-unsplash-min.jpg"
+        "image": "/images/products/Carnations/ellie-ellien-v4HtGKurxDk-unsplash-min.jpg"
       }
     ],
     "category": "Carnations",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Multi Color Carnations",
     "price": 420,
     "description": "Carnations are available in a variety of colors and are often used in mixed bouquets.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Carnations/fly-d-EXwApyS7hOo-unsplash-min.jpg"
+        "image": "/images/products/Carnations/fly-d-EXwApyS7hOo-unsplash-min.jpg"
       }
     ],
     "category": "Carnations",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Light Multi Carnations",
     "price": 420,
     "description": "Carnations are available in a variety of colors and are often used in mixed bouquets.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Carnations/magda-pawluczuk-Yb3-oEiwfXM-unsplash-min.jpg"
+        "image": "/images/products/Carnations/magda-pawluczuk-Yb3-oEiwfXM-unsplash-min.jpg"
       }
     ],
     "category": "Carnations",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "White Orange Carnations",
     "price": 420,
     "description": "Carnations are available in a variety of colors and are often used in mixed bouquets.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Carnations/pexels-alice-oliver-13404712-min.jpg"
+        "image": "/images/products/Carnations/pexels-alice-oliver-13404712-min.jpg"
       }
     ],
     "category": "Carnations",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "White Carnations",
     "price": 420,
     "description": "Carnations are available in a variety of colors and are often used in mixed bouquets.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Carnations/pexels-anastasia-prideina-16291201-min.jpg"
+        "image": "/images/products/Carnations/pexels-anastasia-prideina-16291201-min.jpg"
       }
     ],
     "category": "Carnations",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Red Three Carnations",
     "price": 420,
     "description": "Carnations are available in a variety of colors and are often used in mixed bouquets.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Carnations/pexels-dominika-roseclay-894751-min.jpg"
+        "image": "/images/products/Carnations/pexels-dominika-roseclay-894751-min.jpg"
       }
     ],
     "category": "Carnations",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Single Carnations",
     "price": 420,
     "description": "Carnations are available in a variety of colors and are often used in mixed bouquets.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Carnations/pexels-ekaterina-bolovtsova-9130830-min.jpg"
+        "image": "/images/products/Carnations/pexels-ekaterina-bolovtsova-9130830-min.jpg"
       }
     ],
     "category": "Carnations",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Red White Carnations",
     "price": 420,
     "description": "Carnations are available in a variety of colors and are often used in mixed bouquets.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Carnations/pexels-eva-bronzini-5501096-min.jpg"
+        "image": "/images/products/Carnations/pexels-eva-bronzini-5501096-min.jpg"
       }
     ],
     "category": "Carnations",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Dark Carnations",
     "price": 420,
     "description": "Carnations are available in a variety of colors and are often used in mixed bouquets.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Carnations/pexels-eva-bronzini-5976824-min.jpg"
+        "image": "/images/products/Carnations/pexels-eva-bronzini-5976824-min.jpg"
       }
     ],
     "category": "Carnations",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Light Yellow Carnations",
     "price": 420,
     "description": "Carnations are available in a variety of colors and are often used in mixed bouquets.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Carnations/pexels-karolina-grabowska-4466545-min.jpg"
+        "image": "/images/products/Carnations/pexels-karolina-grabowska-4466545-min.jpg"
       }
     ],
     "category": "Carnations",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Red bouquet Carnations",
     "price": 420,
     "description": "Carnations are available in a variety of colors and are often used in mixed bouquets.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Carnations/pexels-karolina-grabowska-5706250-min.jpg"
+        "image": "/images/products/Carnations/pexels-karolina-grabowska-5706250-min.jpg"
       }
     ],
     "category": "Carnations",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Light Pink bouquet Carnations",
     "price": 420,
     "description": "Carnations are available in a variety of colors and are often used in mixed bouquets.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Carnations/pexels-larissa-farber-16147963-min.jpg"
+        "image": "/images/products/Carnations/pexels-larissa-farber-16147963-min.jpg"
       }
     ],
     "category": "Carnations",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Light Pink Carnations",
     "price": 420,
     "description": "Carnations are available in a variety of colors and are often used in mixed bouquets.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Carnations/pexels-oksana-s-11864711-min.jpg"
+        "image": "/images/products/Carnations/pexels-oksana-s-11864711-min.jpg"
       }
     ],
     "category": "Carnations",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Light Pink Two bouquet Carnations",
     "price": 420,
     "description": "Carnations are available in a variety of colors and are often used in mixed bouquets.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Carnations/pexels-rulo-davila-4491940-min.jpg"
+        "image": "/images/products/Carnations/pexels-rulo-davila-4491940-min.jpg"
       }
     ],
     "category": "Carnations",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Red bouquet Carnations",
     "price": 420,
     "description": "Carnations are available in a variety of colors and are often used in mixed bouquets.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Carnations/pexels-steve-house-14921001-min.jpg"
+        "image": "/images/products/Carnations/pexels-steve-house-14921001-min.jpg"
       }
     ],
     "category": "Carnations",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Grand Pink bouquet Carnations",
     "price": 420,
     "description": "Carnations are available in a variety of colors and are often used in mixed bouquets.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Carnations/pexels-tara-winstead-7666498-min.jpg"
+        "image": "/images/products/Carnations/pexels-tara-winstead-7666498-min.jpg"
       }
     ],
     "category": "Carnations",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "White Red bouquet Carnations",
     "price": 420,
     "description": "Carnations are available in a variety of colors and are often used in mixed bouquets.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Carnations/sheelah-brennan-lxY85ADc7VY-unsplash-min.jpg"
+        "image": "/images/products/Carnations/sheelah-brennan-lxY85ADc7VY-unsplash-min.jpg"
       }
     ],
     "category": "Carnations",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
 
@@ -341,112 +341,112 @@
     "name": "Red bouquet Casa Blanca Lilies",
     "price": 420,
     "description": "Casa Blanca Lilies These white lilies are known for their elegance and fragrance and are often used in wedding arrangements.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Casa Blanca Lilies/pexels-egor-komarov-13219285-min.jpg"
+        "image": "/images/products/Casa Blanca Lilies/pexels-egor-komarov-13219285-min.jpg"
       }
     ],
     "category": "Casa Blanca Lilies",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Orange bouquet Casa Blanca Lilies",
     "price": 420,
     "description": "Casa Blanca Lilies These white lilies are known for their elegance and fragrance and are often used in wedding arrangements.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Casa Blanca Lilies/pexels-indi-van-kuijk-7625671-min.jpg"
+        "image": "/images/products/Casa Blanca Lilies/pexels-indi-van-kuijk-7625671-min.jpg"
       }
     ],
     "category": "Casa Blanca Lilies",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "White bouquet Casa Blanca Lilies",
     "price": 420,
     "description": "Casa Blanca Lilies These white lilies are known for their elegance and fragrance and are often used in wedding arrangements.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Casa Blanca Lilies/pexels-jonathan-nenemann-5304840-min.jpg"
+        "image": "/images/products/Casa Blanca Lilies/pexels-jonathan-nenemann-5304840-min.jpg"
       }
     ],
     "category": "Casa Blanca Lilies",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Multi Color bouquet Casa Blanca Lilies",
     "price": 420,
     "description": "Casa Blanca Lilies These white lilies are known for their elegance and fragrance and are often used in wedding arrangements.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Casa Blanca Lilies/pexels-julia-khalimova-3648977-min.jpg"
+        "image": "/images/products/Casa Blanca Lilies/pexels-julia-khalimova-3648977-min.jpg"
       }
     ],
     "category": "Casa Blanca Lilies",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Multi Light Color Casa Blanca Lilies",
     "price": 420,
     "description": "Casa Blanca Lilies These white lilies are known for their elegance and fragrance and are often used in wedding arrangements.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Casa Blanca Lilies/pexels-karla-her-4428629-min.jpg"
+        "image": "/images/products/Casa Blanca Lilies/pexels-karla-her-4428629-min.jpg"
       }
     ],
     "category": "Casa Blanca Lilies",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Light Pink Casa Blanca Lilies",
     "price": 420,
     "description": "Casa Blanca Lilies These white lilies are known for their elegance and fragrance and are often used in wedding arrangements.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Casa Blanca Lilies/pexels-muverrihhanim-17287503-min.jpg"
+        "image": "/images/products/Casa Blanca Lilies/pexels-muverrihhanim-17287503-min.jpg"
       }
     ],
     "category": "Casa Blanca Lilies",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "White Casa Blanca Lilies",
     "price": 420,
     "description": "Casa Blanca Lilies These white lilies are known for their elegance and fragrance and are often used in wedding arrangements.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Casa Blanca Lilies/pexels-rafael-albaladejo-15436097-min.jpg"
+        "image": "/images/products/Casa Blanca Lilies/pexels-rafael-albaladejo-15436097-min.jpg"
       }
     ],
     "category": "Casa Blanca Lilies",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
 
@@ -454,208 +454,208 @@
     "name": "Bunch Color Chrysanthemums",
     "price": 420,
     "description": "Chrysanthemums, or mums, are versatile flowers that can be used in both traditional and modern arrangements.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Chrysanthemums/bunch-of-flowers-4581547_1920-min.jpg"
+        "image": "/images/products/Chrysanthemums/bunch-of-flowers-4581547_1920-min.jpg"
       }
     ],
     "category": "Chrysanthemums",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Red Yellow Chrysanthemums",
     "price": 420,
     "description": "Chrysanthemums, or mums, are versatile flowers that can be used in both traditional and modern arrangements.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Chrysanthemums/georgi-zvezdov-Ne6kXUijym0-unsplash-min.jpg"
+        "image": "/images/products/Chrysanthemums/georgi-zvezdov-Ne6kXUijym0-unsplash-min.jpg"
       }
     ],
     "category": "Chrysanthemums",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Pink Big Chrysanthemums",
     "price": 420,
     "description": "Chrysanthemums, or mums, are versatile flowers that can be used in both traditional and modern arrangements.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Chrysanthemums/gor-davtyan-ApKLGMa39z8-unsplash-min.jpg"
+        "image": "/images/products/Chrysanthemums/gor-davtyan-ApKLGMa39z8-unsplash-min.jpg"
       }
     ],
     "category": "Chrysanthemums",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Pink bouquet Chrysanthemums",
     "price": 420,
     "description": "Chrysanthemums, or mums, are versatile flowers that can be used in both traditional and modern arrangements.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Chrysanthemums/pexels-ánh-đặng-16398258-min.jpg"
+        "image": "/images/products/Chrysanthemums/pexels-ánh-đặng-16398258-min.jpg"
       }
     ],
     "category": "Chrysanthemums",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Yellow bouquet Chrysanthemums",
     "price": 420,
     "description": "Chrysanthemums, or mums, are versatile flowers that can be used in both traditional and modern arrangements.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Chrysanthemums/pexels-jill-burrow-5987200-min.jpg"
+        "image": "/images/products/Chrysanthemums/pexels-jill-burrow-5987200-min.jpg"
       }
     ],
     "category": "Chrysanthemums",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "White Pink bouquet Chrysanthemums",
     "price": 420,
     "description": "Chrysanthemums, or mums, are versatile flowers that can be used in both traditional and modern arrangements.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Chrysanthemums/pexels-karolina-grabowska-4022213-min.jpg"
+        "image": "/images/products/Chrysanthemums/pexels-karolina-grabowska-4022213-min.jpg"
       }
     ],
     "category": "Chrysanthemums",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Orange bouquet Chrysanthemums",
     "price": 420,
     "description": "Chrysanthemums, or mums, are versatile flowers that can be used in both traditional and modern arrangements.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Chrysanthemums/pexels-karolina-grabowska-4041420-min.jpg"
+        "image": "/images/products/Chrysanthemums/pexels-karolina-grabowska-4041420-min.jpg"
       }
     ],
     "category": "Chrysanthemums",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "White and Yellow bouquet Chrysanthemums",
     "price": 420,
     "description": "Chrysanthemums, or mums, are versatile flowers that can be used in both traditional and modern arrangements.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Chrysanthemums/pexels-karolina-grabowska-4466545-min.jpg"
+        "image": "/images/products/Chrysanthemums/pexels-karolina-grabowska-4466545-min.jpg"
       }
     ],
     "category": "Chrysanthemums",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Dark Pink bouquet Chrysanthemums",
     "price": 420,
     "description": "Chrysanthemums, or mums, are versatile flowers that can be used in both traditional and modern arrangements.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Chrysanthemums/pexels-mathias-reding-14145343-min.jpg"
+        "image": "/images/products/Chrysanthemums/pexels-mathias-reding-14145343-min.jpg"
       }
     ],
     "category": "Chrysanthemums",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Yellow bouquet Chrysanthemums",
     "price": 420,
     "description": "Chrysanthemums, or mums, are versatile flowers that can be used in both traditional and modern arrangements.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Chrysanthemums/pexels-moonbery-11756119-min.jpg"
+        "image": "/images/products/Chrysanthemums/pexels-moonbery-11756119-min.jpg"
       }
     ],
     "category": "Chrysanthemums",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Sandal bouquet Chrysanthemums",
     "price": 420,
     "description": "Chrysanthemums, or mums, are versatile flowers that can be used in both traditional and modern arrangements.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Chrysanthemums/pexels-teona-swift-6913050-min.jpg"
+        "image": "/images/products/Chrysanthemums/pexels-teona-swift-6913050-min.jpg"
       }
     ],
     "category": "Chrysanthemums",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "White Chrysanthemums",
     "price": 420,
     "description": "Chrysanthemums, or mums, are versatile flowers that can be used in both traditional and modern arrangements.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Chrysanthemums/pexels-teona-swift-6913055-min.jpg"
+        "image": "/images/products/Chrysanthemums/pexels-teona-swift-6913055-min.jpg"
       }
     ],
     "category": "Chrysanthemums",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Multi Color Chrysanthemums bouquet",
     "price": 420,
     "description": "Chrysanthemums, or mums, are versatile flowers that can be used in both traditional and modern arrangements.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Chrysanthemums/pexels-terrance-barksdale-16318267-min.jpg"
+        "image": "/images/products/Chrysanthemums/pexels-terrance-barksdale-16318267-min.jpg"
       }
     ],
     "category": "Chrysanthemums",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
 
@@ -663,48 +663,48 @@
     "name": "White Daffodils bouquet",
     "price": 420,
     "description": "Daffodils are a symbol of spring and renewal, making them ideal for seasonal bouquets.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Daffodils/pexels-kübra-zehra-15336852-min.jpg"
+        "image": "/images/products/Daffodils/pexels-kübra-zehra-15336852-min.jpg"
       }
     ],
     "category": "Daffodils",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Yellow Daffodils bouquet",
     "price": 420,
     "description": "Daffodils are a symbol of spring and renewal, making them ideal for seasonal bouquets.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Daffodils/pexels-lisa-fotios-15496076-min.jpg"
+        "image": "/images/products/Daffodils/pexels-lisa-fotios-15496076-min.jpg"
       }
     ],
     "category": "Daffodils",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "White Daffodils",
     "price": 420,
     "description": "Daffodils are a symbol of spring and renewal, making them ideal for seasonal bouquets.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Daffodils/pexels-rahime-gül-14905927-min.jpg"
+        "image": "/images/products/Daffodils/pexels-rahime-gül-14905927-min.jpg"
       }
     ],
     "category": "Daffodils",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
 
@@ -712,176 +712,176 @@
     "name": "Orange Daisies",
     "price": 120,
     "description": "Daisies exude simplicity and charm, making them suitable for a wide range of occasions.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Daisies/alireza-shirvan-KwPwziUBpD8-unsplash-min.jpg"
+        "image": "/images/products/Daisies/alireza-shirvan-KwPwziUBpD8-unsplash-min.jpg"
       }
     ],
     "category": "Daisies",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Violet Daisie",
     "price": 120,
     "description": "Daisies exude simplicity and charm, making them suitable for a wide range of occasions.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Daisies/aster-591311_1920-min.jpg"
+        "image": "/images/products/Daisies/aster-591311_1920-min.jpg"
       }
     ],
     "category": "Daisies",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Heart White Daisie Bouquet",
     "price": 120,
     "description": "Daisies exude simplicity and charm, making them suitable for a wide range of occasions.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Daisies/daisies-1403041_1920-min.jpg"
+        "image": "/images/products/Daisies/daisies-1403041_1920-min.jpg"
       }
     ],
     "category": "Daisies",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "White Daisies Bouquet",
     "price": 120,
     "description": "Daisies exude simplicity and charm, making them suitable for a wide range of occasions.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Daisies/devyani-vij-9JR15cGF0YM-unsplash-min.jpg"
+        "image": "/images/products/Daisies/devyani-vij-9JR15cGF0YM-unsplash-min.jpg"
       }
     ],
     "category": "Daisies",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Red Daisies",
     "price": 120,
     "description": "Daisies exude simplicity and charm, making them suitable for a wide range of occasions.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Daisies/gerbera-7101430_1920-min.jpg"
+        "image": "/images/products/Daisies/gerbera-7101430_1920-min.jpg"
       }
     ],
     "category": "Daisies",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "White Daisies Bouquet",
     "price": 120,
     "description": "Daisies exude simplicity and charm, making them suitable for a wide range of occasions.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Daisies/larisa-birta-WIaFt0JeGMA-unsplash-min.jpg"
+        "image": "/images/products/Daisies/larisa-birta-WIaFt0JeGMA-unsplash-min.jpg"
       }
     ],
     "category": "Daisies",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Violet Daisies Bouquet",
     "price": 120,
     "description": "Daisies exude simplicity and charm, making them suitable for a wide range of occasions.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Daisies/pexels-jess-bailey-designs-765491-min.jpg"
+        "image": "/images/products/Daisies/pexels-jess-bailey-designs-765491-min.jpg"
       }
     ],
     "category": "Daisies",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "White Violet Daisies",
     "price": 120,
     "description": "Daisies exude simplicity and charm, making them suitable for a wide range of occasions.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Daisies/pexels-pixabay-432873-min.jpg"
+        "image": "/images/products/Daisies/pexels-pixabay-432873-min.jpg"
       }
     ],
     "category": "Daisies",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Multi Color Daisies",
     "price": 120,
     "description": "Daisies exude simplicity and charm, making them suitable for a wide range of occasions.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Daisies/pexels-unchalee-srirugsar-70330-min.jpg"
+        "image": "/images/products/Daisies/pexels-unchalee-srirugsar-70330-min.jpg"
       }
     ],
     "category": "Daisies",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Red and Pink Daisies",
     "price": 120,
     "description": "Daisies exude simplicity and charm, making them suitable for a wide range of occasions.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Daisies/shaun-meintjes-36sbHSsqnxw-unsplash-min.jpg"
+        "image": "/images/products/Daisies/shaun-meintjes-36sbHSsqnxw-unsplash-min.jpg"
       }
     ],
     "category": "Daisies",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Small White Daisies Bouquet",
     "price": 120,
     "description": "Daisies exude simplicity and charm, making them suitable for a wide range of occasions.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Daisies/sixteen-miles-out-9xhtgJxjrS8-unsplash-min.jpg"
+        "image": "/images/products/Daisies/sixteen-miles-out-9xhtgJxjrS8-unsplash-min.jpg"
       }
     ],
     "category": "Daisies",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
 
@@ -889,64 +889,64 @@
     "name": "Orange Gerbera Daisies Bouquet",
     "price": 120,
     "description": "Gerbera Daisies These large, colorful daisies are perfect for adding a pop of color to bouquets.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Gerbera Daisies/jen-theodore-huXYMw3X4sc-unsplash-min.jpg"
+        "image": "/images/products/Gerbera Daisies/jen-theodore-huXYMw3X4sc-unsplash-min.jpg"
       }
     ],
     "category": "Gerbera Daisies",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "White Gerbera Daisies Bouquet",
     "price": 120,
     "description": "Gerbera Daisies These large, colorful daisies are perfect for adding a pop of color to bouquets.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Gerbera Daisies/jen-theodore-jrwaaL-7ljc-unsplash-min.jpg"
+        "image": "/images/products/Gerbera Daisies/jen-theodore-jrwaaL-7ljc-unsplash-min.jpg"
       }
     ],
     "category": "Gerbera Daisies",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "White Pink Gerbera Daisies Bouquet",
     "price": 120,
     "description": "Gerbera Daisies These large, colorful daisies are perfect for adding a pop of color to bouquets.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Gerbera Daisies/pexels-karolina-grabowska-4022207-min.jpg"
+        "image": "/images/products/Gerbera Daisies/pexels-karolina-grabowska-4022207-min.jpg"
       }
     ],
     "category": "Gerbera Daisies",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Pink Gerbera Daisies Bouquet",
     "price": 120,
     "description": "Gerbera Daisies These large, colorful daisies are perfect for adding a pop of color to bouquets.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Gerbera Daisies/pexels-skylar-kang-6045201-min.jpg"
+        "image": "/images/products/Gerbera Daisies/pexels-skylar-kang-6045201-min.jpg"
       }
     ],
     "category": "Gerbera Daisies",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
 
@@ -954,32 +954,32 @@
     "name": "Pink Gladiolus Bouquet",
     "price": 120,
     "description": "Gladiolus These tall, dramatic flowers are perfect for creating vertical arrangements.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Gladiolus/pexels-hatice-noğman-7952789-min.jpg"
+        "image": "/images/products/Gladiolus/pexels-hatice-noğman-7952789-min.jpg"
       }
     ],
     "category": "Gladiolus",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Red Gladiolus Bouquet",
     "price": 120,
     "description": "Gladiolus These tall, dramatic flowers are perfect for creating vertical arrangements.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Gladiolus/pexels-jill-burrow-6858634-min.jpg"
+        "image": "/images/products/Gladiolus/pexels-jill-burrow-6858634-min.jpg"
       }
     ],
     "category": "Gladiolus",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
 
@@ -987,240 +987,240 @@
     "name": "Blue Hydrangeas",
     "price": 120,
     "description": "Hydrangeas come in various shades and have a full, voluminous appearance, making them ideal for creating lush arrangements.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Hydrangeas/blue-hydrangea-58432_1920-min.jpg"
+        "image": "/images/products/Hydrangeas/blue-hydrangea-58432_1920-min.jpg"
       }
     ],
     "category": "Hydrangeas",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Light Hydrangeas Bouquet",
     "price": 120,
     "description": "Hydrangeas come in various shades and have a full, voluminous appearance, making them ideal for creating lush arrangements.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Hydrangeas/flower-2683604_1920-min.jpg"
+        "image": "/images/products/Hydrangeas/flower-2683604_1920-min.jpg"
       }
     ],
     "category": "Hydrangeas",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "White Hydrangeas ",
     "price": 120,
     "description": "Hydrangeas come in various shades and have a full, voluminous appearance, making them ideal for creating lush arrangements.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Hydrangeas/hydrangea-7604732_1920-min.jpg"
+        "image": "/images/products/Hydrangeas/hydrangea-7604732_1920-min.jpg"
       }
     ],
     "category": "Hydrangeas",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Light Pink Hydrangeas Bouquet",
     "price": 120,
     "description": "Hydrangeas come in various shades and have a full, voluminous appearance, making them ideal for creating lush arrangements.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Hydrangeas/hydrangeas-7207662_1920-min.jpg"
+        "image": "/images/products/Hydrangeas/hydrangeas-7207662_1920-min.jpg"
       }
     ],
     "category": "Hydrangeas",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Soil Grand Hydrangeas Bouquet",
     "price": 120,
     "description": "Hydrangeas come in various shades and have a full, voluminous appearance, making them ideal for creating lush arrangements.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Hydrangeas/kura-tregenza-QkUw3nV4eJk-unsplash-min.jpg"
+        "image": "/images/products/Hydrangeas/kura-tregenza-QkUw3nV4eJk-unsplash-min.jpg"
       }
     ],
     "category": "Hydrangeas",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Soil Hydrangeas Bouquet",
     "price": 120,
     "description": "Hydrangeas come in various shades and have a full, voluminous appearance, making them ideal for creating lush arrangements.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Hydrangeas/margaret-jaszowska-vzUCBUR5RxI-unsplash-min.jpg"
+        "image": "/images/products/Hydrangeas/margaret-jaszowska-vzUCBUR5RxI-unsplash-min.jpg"
       }
     ],
     "category": "Hydrangeas",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "White Hydrangeas Bouquet",
     "price": 120,
     "description": "Hydrangeas come in various shades and have a full, voluminous appearance, making them ideal for creating lush arrangements.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Hydrangeas/pexels-almira-16829570-min.jpg"
+        "image": "/images/products/Hydrangeas/pexels-almira-16829570-min.jpg"
       }
     ],
     "category": "Hydrangeas",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Dark White Hydrangeas Bouquet",
     "price": 120,
     "description": "Hydrangeas come in various shades and have a full, voluminous appearance, making them ideal for creating lush arrangements.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Hydrangeas/pexels-andrew-green-6600867-min.jpg"
+        "image": "/images/products/Hydrangeas/pexels-andrew-green-6600867-min.jpg"
       }
     ],
     "category": "Hydrangeas",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "White Hydrangeas Bouquet",
     "price": 120,
     "description": "Hydrangeas come in various shades and have a full, voluminous appearance, making them ideal for creating lush arrangements.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Hydrangeas/pexels-cup-of-couple-7301730-min.jpg"
+        "image": "/images/products/Hydrangeas/pexels-cup-of-couple-7301730-min.jpg"
       }
     ],
     "category": "Hydrangeas",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Blue Red Hydrangeas Bouquet",
     "price": 120,
     "description": "Hydrangeas come in various shades and have a full, voluminous appearance, making them ideal for creating lush arrangements.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Hydrangeas/pexels-max-rahubovskiy-6078535-min.jpg"
+        "image": "/images/products/Hydrangeas/pexels-max-rahubovskiy-6078535-min.jpg"
       }
     ],
     "category": "Hydrangeas",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Blue Hydrangeas Bouquet",
     "price": 120,
     "description": "Hydrangeas come in various shades and have a full, voluminous appearance, making them ideal for creating lush arrangements.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Hydrangeas/pexels-michaela-s-8344650-min.jpg"
+        "image": "/images/products/Hydrangeas/pexels-michaela-s-8344650-min.jpg"
       }
     ],
     "category": "Hydrangeas",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "White Hydrangeas",
     "price": 120,
     "description": "Hydrangeas come in various shades and have a full, voluminous appearance, making them ideal for creating lush arrangements.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Hydrangeas/pexels-muaji-r-adam-13189295-min.jpg"
+        "image": "/images/products/Hydrangeas/pexels-muaji-r-adam-13189295-min.jpg"
       }
     ],
     "category": "Hydrangeas",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Pink Hydrangeas Bouquet",
     "price": 120,
     "description": "Hydrangeas come in various shades and have a full, voluminous appearance, making them ideal for creating lush arrangements.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Hydrangeas/pexels-piotr-arnoldes-6794594-min.jpg"
+        "image": "/images/products/Hydrangeas/pexels-piotr-arnoldes-6794594-min.jpg"
       }
     ],
     "category": "Hydrangeas",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "White Lightblue Hydrangeas",
     "price": 120,
     "description": "Hydrangeas come in various shades and have a full, voluminous appearance, making them ideal for creating lush arrangements.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Hydrangeas/pexels-teona-swift-6912850-min.jpg"
+        "image": "/images/products/Hydrangeas/pexels-teona-swift-6912850-min.jpg"
       }
     ],
     "category": "Hydrangeas",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "White Lightblue Hydrangeas Bouquet",
     "price": 120,
     "description": "Hydrangeas come in various shades and have a full, voluminous appearance, making them ideal for creating lush arrangements.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Hydrangeas/pexels-teona-swift-6913817-min.jpg"
+        "image": "/images/products/Hydrangeas/pexels-teona-swift-6913817-min.jpg"
       }
     ],
     "category": "Hydrangeas",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
 
@@ -1228,48 +1228,48 @@
     "name": "Orange Iris Bouquet",
     "price": 120,
     "description": "Iris flowers have a unique appearance with their intricate petals and come in various colors.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Iris/earl-wilcox-Nzf5vxQ6HPA-unsplash-min.jpg"
+        "image": "/images/products/Iris/earl-wilcox-Nzf5vxQ6HPA-unsplash-min.jpg"
       }
     ],
     "category": "Iris",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Violet Iris Bouquet",
     "price": 120,
     "description": "Iris flowers have a unique appearance with their intricate petals and come in various colors.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Iris/flowers-7473664_1920-min.jpg"
+        "image": "/images/products/Iris/flowers-7473664_1920-min.jpg"
       }
     ],
     "category": "Iris",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "White Iris Bouquet",
     "price": 120,
     "description": "Iris flowers have a unique appearance with their intricate petals and come in various colors.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Iris/pexels-elina-nova-13797008-min.jpg"
+        "image": "/images/products/Iris/pexels-elina-nova-13797008-min.jpg"
       }
     ],
     "category": "Iris",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
 
@@ -1277,160 +1277,160 @@
     "name": "Pink Lilies Bouquet",
     "price": 120,
     "description": "Lilies are known for their striking appearance and come in various types, including Asiatic, Oriental, and Calla lilies.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/lilies/earl-wilcox-6ePT8C768uo-unsplash-min.jpg"
+        "image": "/images/products/lilies/earl-wilcox-6ePT8C768uo-unsplash-min.jpg"
       }
     ],
     "category": "Lilies",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Pink Lilies Bouquet",
     "price": 120,
     "description": "Lilies are known for their striking appearance and come in various types, including Asiatic, Oriental, and Calla lilies.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/lilies/earl-wilcox-9X4aCCt2xto-unsplash-min.jpg"
+        "image": "/images/products/lilies/earl-wilcox-9X4aCCt2xto-unsplash-min.jpg"
       }
     ],
     "category": "Lilies",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Yellow Lilies Bouquet",
     "price": 120,
     "description": "Lilies are known for their striking appearance and come in various types, including Asiatic, Oriental, and Calla lilies.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/lilies/earl-wilcox-yb13RSx-cYM-unsplash-min.jpg"
+        "image": "/images/products/lilies/earl-wilcox-yb13RSx-cYM-unsplash-min.jpg"
       }
     ],
     "category": "Lilies",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Pink Lilies",
     "price": 120,
     "description": "Lilies are known for their striking appearance and come in various types, including Asiatic, Oriental, and Calla lilies.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/lilies/pexels-cody-10737505-min.jpg"
+        "image": "/images/products/lilies/pexels-cody-10737505-min.jpg"
       }
     ],
     "category": "Lilies",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "White Lilies Bouquet",
     "price": 120,
     "description": "Lilies are known for their striking appearance and come in various types, including Asiatic, Oriental, and Calla lilies.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/lilies/pexels-dagmara-dombrovska-11986517-min.jpg"
+        "image": "/images/products/lilies/pexels-dagmara-dombrovska-11986517-min.jpg"
       }
     ],
     "category": "Lilies",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Red Lilies",
     "price": 120,
     "description": "Lilies are known for their striking appearance and come in various types, including Asiatic, Oriental, and Calla lilies.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/lilies/pexels-karolina-grabowska-7291748-min.jpg"
+        "image": "/images/products/lilies/pexels-karolina-grabowska-7291748-min.jpg"
       }
     ],
     "category": "Lilies",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "White Pink Lilies",
     "price": 120,
     "description": "Lilies are known for their striking appearance and come in various types, including Asiatic, Oriental, and Calla lilies.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/lilies/pexels-laura-paredis-13008779-min.jpg"
+        "image": "/images/products/lilies/pexels-laura-paredis-13008779-min.jpg"
       }
     ],
     "category": "Lilies",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Multi Color Lilies Bouquet",
     "price": 120,
     "description": "Lilies are known for their striking appearance and come in various types, including Asiatic, Oriental, and Calla lilies.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/lilies/pexels-patrick-nizan-14691122-min.jpg"
+        "image": "/images/products/lilies/pexels-patrick-nizan-14691122-min.jpg"
       }
     ],
     "category": "Lilies",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Grass and White Lilies Bouquet",
     "price": 120,
     "description": "Lilies are known for their striking appearance and come in various types, including Asiatic, Oriental, and Calla lilies.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/lilies/pexels-regina-pivetta-9897448-min.jpg "
+        "image": "/images/products/lilies/pexels-regina-pivetta-9897448-min.jpg "
       }
     ],
     "category": "Lilies",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Pink Lilies Bouquet",
     "price": 120,
     "description": "Lilies are known for their striking appearance and come in various types, including Asiatic, Oriental, and Calla lilies.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/lilies/pexels-solodsha-7664381-min.jpg"
+        "image": "/images/products/lilies/pexels-solodsha-7664381-min.jpg"
       }
     ],
     "category": "Lilies",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
 
@@ -1438,224 +1438,224 @@
     "name": "Violet Orchids",
     "price": 120,
     "description": "Orchids are known for their exotic beauty and long-lasting blooms, making them a popular choice for special events.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Orchids/alfonso-alberto-ramirez-alvarez-FP2Kf5DsSo8-unsplash-min.jpg"
+        "image": "/images/products/Orchids/alfonso-alberto-ramirez-alvarez-FP2Kf5DsSo8-unsplash-min.jpg"
       }
     ],
     "category": "Orchids",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "White Yellow Orchids",
     "price": 120,
     "description": "Orchids are known for their exotic beauty and long-lasting blooms, making them a popular choice for special events.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Orchids/ana-martinuzzi-TdK4kmCdXSg-unsplash-min.jpg"
+        "image": "/images/products/Orchids/ana-martinuzzi-TdK4kmCdXSg-unsplash-min.jpg"
       }
     ],
     "category": "Orchids",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Violet Orchids Bouquet",
     "price": 120,
     "description": "Orchids are known for their exotic beauty and long-lasting blooms, making them a popular choice for special events.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Orchids/dim-hou-7W_VbGkj7lg-unsplash-min.jpg"
+        "image": "/images/products/Orchids/dim-hou-7W_VbGkj7lg-unsplash-min.jpg"
       }
     ],
     "category": "Orchids",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Blue Orchids",
     "price": 120,
     "description": "Orchids are known for their exotic beauty and long-lasting blooms, making them a popular choice for special events.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Orchids/kseniia-ilinykh-OrKgC0M8Lj8-unsplash-min.jpg"
+        "image": "/images/products/Orchids/kseniia-ilinykh-OrKgC0M8Lj8-unsplash-min.jpg"
       }
     ],
     "category": "Orchids",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Violet White Orchids",
     "price": 120,
     "description": "Orchids are known for their exotic beauty and long-lasting blooms, making them a popular choice for special events.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Orchids/orchid-3464255_1920-min.jpg"
+        "image": "/images/products/Orchids/orchid-3464255_1920-min.jpg"
       }
     ],
     "category": "Orchids",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Dark Violet Orchids",
     "price": 120,
     "description": "Orchids are known for their exotic beauty and long-lasting blooms, making them a popular choice for special events.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Orchids/pexels-erika-archaga-1453457-min.jpg"
+        "image": "/images/products/Orchids/pexels-erika-archaga-1453457-min.jpg"
       }
     ],
     "category": "Orchids",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Violet Orchids Bouquet",
     "price": 120,
     "description": "Orchids are known for their exotic beauty and long-lasting blooms, making them a popular choice for special events.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Orchids/pexels-itemguidescom-667043-min.jpg"
+        "image": "/images/products/Orchids/pexels-itemguidescom-667043-min.jpg"
       }
     ],
     "category": "Orchids",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "White Orchids Bouquet",
     "price": 120,
     "description": "Orchids are known for their exotic beauty and long-lasting blooms, making them a popular choice for special events.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Orchids/pexels-larissa-megale-1076233-min.jpg "
+        "image": "/images/products/Orchids/pexels-larissa-megale-1076233-min.jpg "
       }
     ],
     "category": "Orchids",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Orange Orchids Bouquet",
     "price": 120,
     "description": "Orchids are known for their exotic beauty and long-lasting blooms, making them a popular choice for special events.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Orchids/pexels-mariola-3699859-min.jpg "
+        "image": "/images/products/Orchids/pexels-mariola-3699859-min.jpg "
       }
     ],
     "category": "Orchids",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "White Orchids",
     "price": 120,
     "description": "Orchids are known for their exotic beauty and long-lasting blooms, making them a popular choice for special events.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Orchids/pexels-quang-nguyen-vinh-8280982-min.jpg "
+        "image": "/images/products/Orchids/pexels-quang-nguyen-vinh-8280982-min.jpg "
       }
     ],
     "category": "Orchids",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Yellow Orchids",
     "price": 120,
     "description": "Orchids are known for their exotic beauty and long-lasting blooms, making them a popular choice for special events.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Orchids/pexels-quang-nguyen-vinh-8280983-min.jpg "
+        "image": "/images/products/Orchids/pexels-quang-nguyen-vinh-8280983-min.jpg "
       }
     ],
     "category": "Orchids",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "White Orchids",
     "price": 120,
     "description": "Orchids are known for their exotic beauty and long-lasting blooms, making them a popular choice for special events.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Orchids/pexels-victor-candiani-6135011-min.jpg "
+        "image": "/images/products/Orchids/pexels-victor-candiani-6135011-min.jpg "
       }
     ],
     "category": "Orchids",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Light Orange Orchids",
     "price": 120,
     "description": "Orchids are known for their exotic beauty and long-lasting blooms, making them a popular choice for special events.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Orchids/rae-galatas-EVvzhwW2M9k-unsplash-min.jpg "
+        "image": "/images/products/Orchids/rae-galatas-EVvzhwW2M9k-unsplash-min.jpg "
       }
     ],
     "category": "Orchids",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Light Orange Orchids",
     "price": 120,
     "description": "Orchids are known for their exotic beauty and long-lasting blooms, making them a popular choice for special events.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Orchids/timo-c-dinger-OiW-pF2ZJDw-unsplash-min.jpg "
+        "image": "/images/products/Orchids/timo-c-dinger-OiW-pF2ZJDw-unsplash-min.jpg "
       }
     ],
     "category": "Orchids",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
 
@@ -1663,224 +1663,224 @@
     "name": "White Peonies Bouquet",
     "price": 450,
     "description": "Peonies are loved for their lush, fragrant blooms, making them a lovely choice for weddings and other special occasions.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/peonies/irina-HP9_dGIQEik-unsplash-min.jpg"
+        "image": "/images/products/peonies/irina-HP9_dGIQEik-unsplash-min.jpg"
       }
     ],
     "category": "Peonies",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Light Red Peonies Bouquet",
     "price": 450,
     "description": "Peonies are loved for their lush, fragrant blooms, making them a lovely choice for weddings and other special occasions.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/peonies/pexels-andy-lee-15169353-min.jpg"
+        "image": "/images/products/peonies/pexels-andy-lee-15169353-min.jpg"
       }
     ],
     "category": "Peonies",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Light Pink Peonies Bouquet",
     "price": 450,
     "description": "Peonies are loved for their lush, fragrant blooms, making them a lovely choice for weddings and other special occasions.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/peonies/pexels-andy-lee-15801488-min.jpg"
+        "image": "/images/products/peonies/pexels-andy-lee-15801488-min.jpg"
       }
     ],
     "category": "Peonies",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Light Pink Peonies Bouquet",
     "price": 450,
     "description": "Peonies are loved for their lush, fragrant blooms, making them a lovely choice for weddings and other special occasions.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/peonies/pexels-marta-dzedyshko-7693914-min.jpg"
+        "image": "/images/products/peonies/pexels-marta-dzedyshko-7693914-min.jpg"
       }
     ],
     "category": "Peonies",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Light Pink Peonies Bouquet",
     "price": 450,
     "description": "Peonies are loved for their lush, fragrant blooms, making them a lovely choice for weddings and other special occasions.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/peonies/pexels-melike-benli-9055982-min.jpg"
+        "image": "/images/products/peonies/pexels-melike-benli-9055982-min.jpg"
       }
     ],
     "category": "Peonies",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Light Pink and White Peonies Bouquet",
     "price": 450,
     "description": "Peonies are loved for their lush, fragrant blooms, making them a lovely choice for weddings and other special occasions.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/peonies/pexels-nârince-13832352-min.jpg"
+        "image": "/images/products/peonies/pexels-nârince-13832352-min.jpg"
       }
     ],
     "category": "Peonies",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Red Peonies Bouquet",
     "price": 450,
     "description": "Peonies are loved for their lush, fragrant blooms, making them a lovely choice for weddings and other special occasions.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/peonies/pexels-olena-ushakova-11813891-min.jpg"
+        "image": "/images/products/peonies/pexels-olena-ushakova-11813891-min.jpg"
       }
     ],
     "category": "Peonies",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Light Orange Peonies Bouquet",
     "price": 450,
     "description": "Peonies are loved for their lush, fragrant blooms, making them a lovely choice for weddings and other special occasions.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/peonies/pexels-secret-garden-2879815-min.jpg"
+        "image": "/images/products/peonies/pexels-secret-garden-2879815-min.jpg"
       }
     ],
     "category": "Peonies",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Multi Color Peonies Bouquet",
     "price": 450,
     "description": "Peonies are loved for their lush, fragrant blooms, making them a lovely choice for weddings and other special occasions.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/peonies/pexels-secret-garden-2879815-min.jpg"
+        "image": "/images/products/peonies/pexels-secret-garden-2879815-min.jpg"
       }
     ],
     "category": "Peonies",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Orange Peonies Bouquet",
     "price": 450,
     "description": "Peonies are loved for their lush, fragrant blooms, making them a lovely choice for weddings and other special occasions.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/peonies/pexels-secret-garden-2879820-min.jpg"
+        "image": "/images/products/peonies/pexels-secret-garden-2879820-min.jpg"
       }
     ],
     "category": "Peonies",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Red Peonies Bouquet",
     "price": 450,
     "description": "Peonies are loved for their lush, fragrant blooms, making them a lovely choice for weddings and other special occasions.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/peonies/pexels-studio-naae-9994586-min.jpg"
+        "image": "/images/products/peonies/pexels-studio-naae-9994586-min.jpg"
       }
     ],
     "category": "Peonies",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Light Pink Peonies Bouquet",
     "price": 450,
     "description": "Peonies are loved for their lush, fragrant blooms, making them a lovely choice for weddings and other special occasions.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/peonies/pexels-valeriia-miller-3392982-min.jpg"
+        "image": "/images/products/peonies/pexels-valeriia-miller-3392982-min.jpg"
       }
     ],
     "category": "Peonies",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Pink and White Peonies Bouquet",
     "price": 450,
     "description": "Peonies are loved for their lush, fragrant blooms, making them a lovely choice for weddings and other special occasions.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/peonies/pexels-унайзат-юшаева-17096602-min.jpg"
+        "image": "/images/products/peonies/pexels-унайзат-юшаева-17096602-min.jpg"
       }
     ],
     "category": "Peonies",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Pink Peonies Bouquet",
     "price": 450,
     "description": "Peonies are loved for their lush, fragrant blooms, making them a lovely choice for weddings and other special occasions.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/peonies/rebecca-A_fBQe39A4k-unsplash-min.jpg"
+        "image": "/images/products/peonies/rebecca-A_fBQe39A4k-unsplash-min.jpg"
       }
     ],
     "category": "Peonies",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
 
@@ -1888,304 +1888,304 @@
     "name": "Red Rose",
     "price": 450,
     "description": "A classic choice, roses come in various colors and are often associated with love and romance.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Roses/ameenfahmy-gcWd0ts4RCo-unsplash-min.jpg"
+        "image": "/images/products/Roses/ameenfahmy-gcWd0ts4RCo-unsplash-min.jpg"
       }
     ],
     "category": "Rose",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Red Rose Bouquet",
     "price": 450,
     "description": "A classic choice, roses come in various colors and are often associated with love and romance.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Roses/bence-balla-schottner-ehGgVnHc-1Q-unsplash-min.jpg"
+        "image": "/images/products/Roses/bence-balla-schottner-ehGgVnHc-1Q-unsplash-min.jpg"
       }
     ],
     "category": "Rose",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Multi Color Rose Bouquet",
     "price": 450,
     "description": "A classic choice, roses come in various colors and are often associated with love and romance.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Roses/pexels-anton-mislawsky-226145-min.jpg"
+        "image": "/images/products/Roses/pexels-anton-mislawsky-226145-min.jpg"
       }
     ],
     "category": "Rose",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "White and Pink Color Rose Bouquet",
     "price": 450,
     "description": "A classic choice, roses come in various colors and are often associated with love and romance.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Roses/pexels-dimitri-kuliuk-1488310-min.jpg"
+        "image": "/images/products/Roses/pexels-dimitri-kuliuk-1488310-min.jpg"
       }
     ],
     "category": "Rose",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Yellow and Violet Color Rose Bouquet",
     "price": 450,
     "description": "A classic choice, roses come in various colors and are often associated with love and romance.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Roses/pexels-goran-vrakela-230292-min.jpg"
+        "image": "/images/products/Roses/pexels-goran-vrakela-230292-min.jpg"
       }
     ],
     "category": "Rose",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "White Rose Bouquet",
     "price": 450,
     "description": "A classic choice, roses come in various colors and are often associated with love and romance.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Roses/pexels-la-otra-qatar-1661629-min.jpg"
+        "image": "/images/products/Roses/pexels-la-otra-qatar-1661629-min.jpg"
       }
     ],
     "category": "Rose",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "White and Light Orange Color Rose Bouquet",
     "price": 450,
     "description": "A classic choice, roses come in various colors and are often associated with love and romance.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Roses/pexels-loong-ken-1564612-min.jpg"
+        "image": "/images/products/Roses/pexels-loong-ken-1564612-min.jpg"
       }
     ],
     "category": "Rose",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Red Rose Bouquet",
     "price": 450,
     "description": "A classic choice, roses come in various colors and are often associated with love and romance.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Roses/pexels-lynda-sanchez-2300713-min.jpg"
+        "image": "/images/products/Roses/pexels-lynda-sanchez-2300713-min.jpg"
       }
     ],
     "category": "Rose",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Red Rose Bouquet",
     "price": 450,
     "description": "A classic choice, roses come in various colors and are often associated with love and romance.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Roses/pexels-marcelo-joaquim-5852593-min.jpg"
+        "image": "/images/products/Roses/pexels-marcelo-joaquim-5852593-min.jpg"
       }
     ],
     "category": "Rose",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Light Pink Rose Bouquet",
     "price": 450,
     "description": "A classic choice, roses come in various colors and are often associated with love and romance.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Roses/pexels-melike-benli-7473697-min.jpg"
+        "image": "/images/products/Roses/pexels-melike-benli-7473697-min.jpg"
       }
     ],
     "category": "Rose",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Multi Color Rose Bouquet",
     "price": 450,
     "description": "A classic choice, roses come in various colors and are often associated with love and romance.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Roses/pexels-michelle-leman-6765922-min.jpg"
+        "image": "/images/products/Roses/pexels-michelle-leman-6765922-min.jpg"
       }
     ],
     "category": "Rose",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Light Pink Rose Bouquet",
     "price": 450,
     "description": "A classic choice, roses come in various colors and are often associated with love and romance.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Roses/pexels-pauline-raw-10394895-min.jpg"
+        "image": "/images/products/Roses/pexels-pauline-raw-10394895-min.jpg"
       }
     ],
     "category": "Rose",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Pink Rose Bouquet",
     "price": 450,
     "description": "A classic choice, roses come in various colors and are often associated with love and romance.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Roses/pexels-pixabay-67567-min.jpg"
+        "image": "/images/products/Roses/pexels-pixabay-67567-min.jpg"
       }
     ],
     "category": "Rose",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Multi Color Rose Bouquet",
     "price": 450,
     "description": "A classic choice, roses come in various colors and are often associated with love and romance.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Roses/pexels-secret-garden-931147-min.jpg"
+        "image": "/images/products/Roses/pexels-secret-garden-931147-min.jpg"
       }
     ],
     "category": "Rose",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Pink Rose Bouquet",
     "price": 450,
     "description": "A classic choice, roses come in various colors and are often associated with love and romance.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Roses/pexels-secret-garden-931176-min.jpg"
+        "image": "/images/products/Roses/pexels-secret-garden-931176-min.jpg"
       }
     ],
     "category": "Rose",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Multi Color Rose Bouquet",
     "price": 450,
     "description": "A classic choice, roses come in various colors and are often associated with love and romance.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Roses/pexels-valeria-boltneva-74512-min.jpg"
+        "image": "/images/products/Roses/pexels-valeria-boltneva-74512-min.jpg"
       }
     ],
     "category": "Rose",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Multi Color Rose Bouquet",
     "price": 450,
     "description": "A classic choice, roses come in various colors and are often associated with love and romance.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Roses/pexels-zoe-pappas-2115971-min.jpg"
+        "image": "/images/products/Roses/pexels-zoe-pappas-2115971-min.jpg"
       }
     ],
     "category": "Rose",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Pink Rose",
     "price": 450,
     "description": "A classic choice, roses come in various colors and are often associated with love and romance.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Roses/pink-2892821_1920-min.jpg"
+        "image": "/images/products/Roses/pink-2892821_1920-min.jpg"
       }
     ],
     "category": "Rose",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Red Rose",
     "price": 450,
     "description": "A classic choice, roses come in various colors and are often associated with love and romance.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/Roses/rose-339236_1920-min.jpg"
+        "image": "/images/products/Roses/rose-339236_1920-min.jpg"
       }
     ],
     "category": "Rose",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
 
@@ -2193,192 +2193,192 @@
     "name": "Sunflowers Bouquet",
     "price": 450,
     "description": "These cheerful and bright flowers are great for bringing warmth and positivity to arrangements.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/sunflowers/pexels-boris-hamer-13599824-min.jpg"
+        "image": "/images/products/sunflowers/pexels-boris-hamer-13599824-min.jpg"
       }
     ],
     "category": "Sunflowers",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Sunflowers  Bouquet",
     "price": 450,
     "description": "These cheerful and bright flowers are great for bringing warmth and positivity to arrangements.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/sunflowers/pexels-karoll-amado-mora-12946026-min.jpg"
+        "image": "/images/products/sunflowers/pexels-karoll-amado-mora-12946026-min.jpg"
       }
     ],
     "category": "Sunflowers",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Sunflowers Bouquet",
     "price": 450,
     "description": "These cheerful and bright flowers are great for bringing warmth and positivity to arrangements.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/sunflowers/pexels-lisa-fotios-15416274-min.jpg"
+        "image": "/images/products/sunflowers/pexels-lisa-fotios-15416274-min.jpg"
       }
     ],
     "category": "Sunflowers",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Sunflowers with stick Stand Bouquet",
     "price": 450,
     "description": "These cheerful and bright flowers are great for bringing warmth and positivity to arrangements.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/sunflowers/pexels-marcelo-joaquim-5852529-min.jpg"
+        "image": "/images/products/sunflowers/pexels-marcelo-joaquim-5852529-min.jpg"
       }
     ],
     "category": "Sunflowers",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Sunflowers Bouquet",
     "price": 450,
     "description": "These cheerful and bright flowers are great for bringing warmth and positivity to arrangements.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/sunflowers/pexels-mikhail-nilov-7676362-min.jpg"
+        "image": "/images/products/sunflowers/pexels-mikhail-nilov-7676362-min.jpg"
       }
     ],
     "category": "Sunflowers",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Sunflowers Bouquet",
     "price": 450,
     "description": "These cheerful and bright flowers are great for bringing warmth and positivity to arrangements.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/sunflowers/pexels-nur-yilmaz-9168326-min.jpg"
+        "image": "/images/products/sunflowers/pexels-nur-yilmaz-9168326-min.jpg"
       }
     ],
     "category": "Sunflowers",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Sunflowers",
     "price": 450,
     "description": "These cheerful and bright flowers are great for bringing warmth and positivity to arrangements.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/sunflowers/pexels-nur-yilmaz-9168329-min.jpg"
+        "image": "/images/products/sunflowers/pexels-nur-yilmaz-9168329-min.jpg"
       }
     ],
     "category": "Sunflowers",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Sunflowers with Roses Bouquet",
     "price": 450,
     "description": "These cheerful and bright flowers are great for bringing warmth and positivity to arrangements.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/sunflowers/pexels-pegah-sharifi-5059809-min.jpg"
+        "image": "/images/products/sunflowers/pexels-pegah-sharifi-5059809-min.jpg"
       }
     ],
     "category": "Sunflowers",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Sunflowers with Multi Flowers Bouquet",
     "price": 450,
     "description": "These cheerful and bright flowers are great for bringing warmth and positivity to arrangements.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/sunflowers/pexels-sami-aksu-13368218-min.jpg"
+        "image": "/images/products/sunflowers/pexels-sami-aksu-13368218-min.jpg"
       }
     ],
     "category": "Sunflowers",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Sunflowers",
     "price": 450,
     "description": "These cheerful and bright flowers are great for bringing warmth and positivity to arrangements.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/sunflowers/pexels-viridiana-rivera-11556720-min.jpg"
+        "image": "/images/products/sunflowers/pexels-viridiana-rivera-11556720-min.jpg"
       }
     ],
     "category": "Sunflowers",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Sunflowers Bouquet",
     "price": 450,
     "description": "These cheerful and bright flowers are great for bringing warmth and positivity to arrangements.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/sunflowers/pexels-zeynep-m-15724338-min.jpg"
+        "image": "/images/products/sunflowers/pexels-zeynep-m-15724338-min.jpg"
       }
     ],
     "category": "Sunflowers",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Sunflowers with Roses Bouquet",
     "price": 450,
     "description": "These cheerful and bright flowers are great for bringing warmth and positivity to arrangements.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/sunflowers/thomas-william-T4sn1Nw1f98-unsplash-min.jpg"
+        "image": "/images/products/sunflowers/thomas-william-T4sn1Nw1f98-unsplash-min.jpg"
       }
     ],
     "category": "Sunflowers",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
 
@@ -2386,256 +2386,256 @@
     "name": "Pink Tulips Bouquet",
     "price": 450,
     "description": "These elegant and vibrant flowers are perfect for spring arrangements.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/tulips/aleksandra-sapozhnikova-XcZjRMA4CCI-unsplash-min.jpg"
+        "image": "/images/products/tulips/aleksandra-sapozhnikova-XcZjRMA4CCI-unsplash-min.jpg"
       }
     ],
     "category": "Tulips",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Multi Color Tulips Bouquet",
     "price": 450,
     "description": "These elegant and vibrant flowers are perfect for spring arrangements.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/tulips/alisa-anton-OyXkIJSB09M-unsplash-min.jpg"
+        "image": "/images/products/tulips/alisa-anton-OyXkIJSB09M-unsplash-min.jpg"
       }
     ],
     "category": "Tulips",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Red Tulips Bouquet",
     "price": 450,
     "description": "These elegant and vibrant flowers are perfect for spring arrangements.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/tulips/ananthu-selvam-62saZ_T5AP0-unsplash-min.jpg"
+        "image": "/images/products/tulips/ananthu-selvam-62saZ_T5AP0-unsplash-min.jpg"
       }
     ],
     "category": "Tulips",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Multi Color Tulips Bouquet",
     "price": 450,
     "description": "These elegant and vibrant flowers are perfect for spring arrangements.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/tulips/flowers-3209128_1920-min.jpg"
+        "image": "/images/products/tulips/flowers-3209128_1920-min.jpg"
       }
     ],
     "category": "Tulips",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Multi Color Tulips Bouquet",
     "price": 450,
     "description": "These elegant and vibrant flowers are perfect for spring arrangements.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/tulips/flowers-429041_1920-min.jpg"
+        "image": "/images/products/tulips/flowers-429041_1920-min.jpg"
       }
     ],
     "category": "Tulips",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Pink Tulips Bouquet",
     "price": 450,
     "description": "These elegant and vibrant flowers are perfect for spring arrangements.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/tulips/hayley-maxwell-BN0tsi5c52w-unsplash-min.jpg"
+        "image": "/images/products/tulips/hayley-maxwell-BN0tsi5c52w-unsplash-min.jpg"
       }
     ],
     "category": "Tulips",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Pink Tulips Bouquet",
     "price": 450,
     "description": "These elegant and vibrant flowers are perfect for spring arrangements.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/tulips/irene-strong-I3w6ylm9LPg-unsplash-min.jpg"
+        "image": "/images/products/tulips/irene-strong-I3w6ylm9LPg-unsplash-min.jpg"
       }
     ],
     "category": "Tulips",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Red White Tulips Bouquet",
     "price": 450,
     "description": "These elegant and vibrant flowers are perfect for spring arrangements.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/tulips/kwang-mathurosemontri-fY1ECB1RCd0-unsplash-min.jpg"
+        "image": "/images/products/tulips/kwang-mathurosemontri-fY1ECB1RCd0-unsplash-min.jpg"
       }
     ],
     "category": "Tulips",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Multi Color Tulips Bouquet",
     "price": 450,
     "description": "These elegant and vibrant flowers are perfect for spring arrangements.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/tulips/libby-penner-hnbBc_1QXlw-unsplash-min.jpg"
+        "image": "/images/products/tulips/libby-penner-hnbBc_1QXlw-unsplash-min.jpg"
       }
     ],
     "category": "Tulips",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Light Pink Tulips Bouquet",
     "price": 450,
     "description": "These elegant and vibrant flowers are perfect for spring arrangements.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/tulips/patrick-langwallner-Rx51u2hx55w-unsplash-min.jpg"
+        "image": "/images/products/tulips/patrick-langwallner-Rx51u2hx55w-unsplash-min.jpg"
       }
     ],
     "category": "Tulips",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "White and Red Tulips Bouquet",
     "price": 450,
     "description": "These elegant and vibrant flowers are perfect for spring arrangements.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/tulips/pexels-hanna-ericsson-1698246-min.jpg"
+        "image": "/images/products/tulips/pexels-hanna-ericsson-1698246-min.jpg"
       }
     ],
     "category": "Tulips",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Yellow Tulips Bouquet",
     "price": 450,
     "description": "These elegant and vibrant flowers are perfect for spring arrangements.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/tulips/pexels-kristina-paukshtite-1998900-min.jpg"
+        "image": "/images/products/tulips/pexels-kristina-paukshtite-1998900-min.jpg"
       }
     ],
     "category": "Tulips",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Yellow Tulips Bouquet",
     "price": 450,
     "description": "These elegant and vibrant flowers are perfect for spring arrangements.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/tulips/pexels-marina-m-6007739-min.jpg"
+        "image": "/images/products/tulips/pexels-marina-m-6007739-min.jpg"
       }
     ],
     "category": "Tulips",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Multi Color Tulips Bouquet",
     "price": 450,
     "description": "These elegant and vibrant flowers are perfect for spring arrangements.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/tulips/timo-c-dinger-zsLF-8LQgI0-unsplash-min.jpg"
+        "image": "/images/products/tulips/timo-c-dinger-zsLF-8LQgI0-unsplash-min.jpg"
       }
     ],
     "category": "Tulips",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Pink Tulips Bouquet",
     "price": 450,
     "description": "These elegant and vibrant flowers are perfect for spring arrangements.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/flowers/tulips/uljana-borodina-vI1tsd3G2fs-unsplash-min.jpg"
+        "image": "/images/products/tulips/uljana-borodina-vI1tsd3G2fs-unsplash-min.jpg"
       }
     ],
     "category": "Tulips",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   },
   {
     "name": "Light Orange Tulips Bouquet",
     "price": 450,
     "description": "These elegant and vibrant flowers are perfect for spring arrangements.",
-    "ratings": 4,
+    "ratings": 0,
     "images": [
       {
-        "image": "/uploads/products/tulips/zoe-schaeffer-YH1h9tN8_ac-unsplash-min.jpg"
+        "image": "/images/products/tulips/zoe-schaeffer-YH1h9tN8_ac-unsplash-min.jpg"
       }
     ],
     "category": "Tulips",
     "seller": "John",
     "stock": 12,
-    "numOfReviews": 2,
+    "numOfReviews": 0,
     "reviews": []
   }
 ]

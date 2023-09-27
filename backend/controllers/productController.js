@@ -6,7 +6,7 @@ const ErrorHandler = require("../utils/errorHandler");
 // Get Products = /api/v1/products
 
 exports.getProducts = catchAsyncError(async (req, res, next) => {
-  const resPerPage = 6;
+  const resPerPage = 12;
 
   let buildQuery = () => {
     return new APIFeatures(Product.find(), req.query).search().filter();
