@@ -27,7 +27,7 @@ export default function ProductDetail() {
 
   const { id } = useParams();
 
-  const [quantity, setQuantity] = useState(0);
+  const [quantity, setQuantity] = useState(1);
 
   const increaseQty = () => {
     const count = document.querySelector(".count");
@@ -49,7 +49,7 @@ export default function ProductDetail() {
   const handleClose = () => setShow(false);
   const handleShow = () => setShow(true);
 
-  const [rating, setRating] = useState(1);
+  const [rating, setRating] = useState(0);
   const [star, setStar] = useState(null);
   const [hov, setHov] = useState(null);
 
