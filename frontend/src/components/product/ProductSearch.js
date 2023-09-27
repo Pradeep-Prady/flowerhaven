@@ -158,8 +158,8 @@ export default function ProductSearch() {
                       {[5, 4, 3, 2, 1].map((index) => (
                         <span
                           key={index}
-                          className={`text-yellow-400 ${
-                            index > star ? "text-gray-100" : ""
+                          className={` ${
+                            index > star ? "text-gray-100" : "text-yellow-400"
                           }`}
                         >
                           &#9733;
