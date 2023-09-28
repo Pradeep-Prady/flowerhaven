@@ -106,7 +106,7 @@ export default function ProductSearch() {
                 <Slider
                   className="text-mylight"
                   range={true}
-                  marks={{ 1: "$1", 1000: "$1000" }}
+                  marks={{ 1: "₹ 1", 1000: "₹ 1000" }}
                   min={1}
                   max={1000}
                   defaultValue={price}
@@ -114,10 +114,10 @@ export default function ProductSearch() {
                   handleRender={(renderProps) => {
                     return (
                       <Tooltip
-                        overlay={`$${renderProps.props["aria-valuenow"]}`}
+                        overlay={`₹${renderProps.props["aria-valuenow"]}`}
                       >
                         <div
-                          className="bg-mygreen "
+                          className="bg-mywhite    "
                           {...renderProps.props}
                         ></div>
                       </Tooltip>

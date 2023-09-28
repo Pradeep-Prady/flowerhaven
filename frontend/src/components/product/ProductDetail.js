@@ -129,7 +129,7 @@ export default function ProductDetail() {
                       <div className="w-10/12 md:w-5/12 h-auto" key={image._id}>
                         <img
                           className="h-auto w-full rounded-md"
-                          src={image.image}
+                          src={image?.image}
                           alt={product?.name}
                         />
                       </div>
@@ -138,16 +138,16 @@ export default function ProductDetail() {
 
                 <div className="md:px-28">
                   <div className="my-2 px-5 text-center">
-                    <h2 className="text-mydark">{product.name}</h2>
+                    <h2 className="text-mydark">{product?.name}</h2>
                     <p className="text-sm text-gray-400 my-2">
-                      {product.description}
+                      {product?.description}
                     </p>
                   </div>
                   <div
                     className="my-3 px-5 flex items-center
          justify-between"
                   >
-                    <p>Price ₹ {product.price}</p>
+                    <p>Price ₹ {product?.price}</p>
                     <p>Quantity {quantity}</p>
                   </div>
                   <div className="flex items-center justify-between px-5">
@@ -161,7 +161,7 @@ export default function ProductDetail() {
                     </div>
 
                     <button
-                      disabled={product.stock === 0 ? true : false}
+                      disabled={product?.stock === 0 ? true : false}
                       onClick={() => {
                         dispatch(addCartItem(product._id, quantity));
                         toast.success(`Flower Added to Cart`, {

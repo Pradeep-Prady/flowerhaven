@@ -7,7 +7,7 @@ export default function ProductReviews({ reviews }) {
 
       <div className="grid grid-cols-1  items-center justify-center py-5">
         {reviews &&
-          reviews.map((review) => (
+          reviews?.map((review) => (
             <div className="w-full flex items-center justify-center">
               <div
                 className="glass w-full h-auto my-2 sm:w-9/12 md:w-6/12 p-2"
@@ -26,7 +26,7 @@ export default function ProductReviews({ reviews }) {
                           />
                           <span
                             className={`${
-                              curr <= review.rating
+                              curr <= review?.rating
                                 ? "text-yellow-400"
                                 : "text-gray-400"
                             }`}
@@ -37,10 +37,10 @@ export default function ProductReviews({ reviews }) {
                       );
                     })}
                   </div>
-                  <p className="text-sm text-gray-400 ">{review.user.name}</p>
+                  <p className="text-sm text-gray-400 ">{review?.user?.name}</p>
                 </div>
 
-                <p>{review.comment}</p>
+                <p>{review?.comment}</p>
               </div>
             </div>
           ))}
