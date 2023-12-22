@@ -85,6 +85,8 @@ export default function Register() {
                 className="w-[80px] rounded-full h-[80px]"
                 alt="profileImg"
                 src={avatarPreview}
+            loading="lazy"
+
               />
             </div>
             <div className="mb-5">

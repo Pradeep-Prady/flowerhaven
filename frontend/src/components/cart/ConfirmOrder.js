@@ -75,6 +75,8 @@ export default function ConfirmOrder() {
                     <div className="flex items-center justify-between glass my-2 sm:m-5 p-2">
                       <div>
                         <img
+            loading="lazy"
+
                           className="w-[60px] h-[60px]"
                           src={item.image}
                           alt={item.name}

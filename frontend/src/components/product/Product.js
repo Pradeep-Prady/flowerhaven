@@ -9,6 +9,7 @@ export default function Product({ product }) {
     >
       <div className="h-[300px] rounded-md flex items-center justify-center overflow-hidden">
         <img
+          loading="lazy"
           className="rounded-md"
           src={product.images[0].image}
           alt={product.name}

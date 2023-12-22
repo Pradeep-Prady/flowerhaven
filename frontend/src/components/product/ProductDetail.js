@@ -62,7 +62,6 @@ export default function ProductDetail() {
     formData.append("comment", comment);
     formData.append("productId", id);
     dispatch(createReview(formData));
-    
   };
 
   useEffect(() => {
@@ -109,7 +108,7 @@ export default function ProductDetail() {
     dispatch(getProduct(id));
   }, [dispatch, id]);
 
-  console.log(product.ratings)
+  console.log(product.ratings);
 
   return (
     <>
@@ -128,6 +127,7 @@ export default function ProductDetail() {
                     product.images.map((image) => (
                       <div className="w-10/12 md:w-5/12 h-auto" key={image._id}>
                         <img
+                          loading="lazy"
                           className="h-auto w-full rounded-md"
                           src={image?.image}
                           alt={product?.name}
@@ -198,7 +198,7 @@ export default function ProductDetail() {
                     <div className="mx-5">
                       <p>
                         {" "}
-                        {product.ratings }
+                        {product.ratings}
                         <i className="fa-solid fa-star text-yellow-400 px-1"></i>
                         Ratings
                       </p>
@@ -285,4 +285,3 @@ export default function ProductDetail() {
     </>
   );
 }
- 

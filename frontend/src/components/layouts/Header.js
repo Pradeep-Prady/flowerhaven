@@ -74,6 +74,7 @@ export default function Header() {
         {imageSources[screenSize].map((imageSrc, index) => (
           <SwiperSlide key={index}>
             <img
+              loading="lazy"
               className="w-full h-full rounded-md"
               src={imageSrc}
               alt={`SwiperSlide ${index + 1}`}

@@ -43,6 +43,8 @@ export default function OrderDetails() {
                     <div className="flex items-center justify-between my-3 p-1 sm:p-5 glass">
                       <div>
                         <img
+            loading="lazy"
+
                           className="w-[40px] h-[40px] sm:w-[65px] sm:h-[65px]"
                           src={item.image}
                           alt={item.name}

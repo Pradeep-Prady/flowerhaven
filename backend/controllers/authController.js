@@ -18,7 +18,7 @@ exports.registerUser = catchAsyncError(async (req, res, next) => {
   }
 
   if (req.file) {
-    avatar = `${process.env.BACKEND_URL}/uploads/users/${req.file.originalname}`;
+    avatar = `${BASE_URL}/uploads/users/${req.file.originalname}`;
   }
 
   const user = await User.create({

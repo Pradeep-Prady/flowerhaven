@@ -6,7 +6,7 @@ export default function OrderSuccess() {
   return (
     <div className="w-full h-auto">
       <div className=" w-auto h-auto flex items-center justify-center ">
-        <img src={loader} alt="Success" />
+        <img loading="lazy" src={loader} alt="Success" />
       </div>
 
       <div className="text-center">

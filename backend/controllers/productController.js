@@ -165,9 +165,6 @@ exports.createReview = catchAsyncError(async (req, res, next) => {
     product.reviews.push(review);
     product.numOfReviews = product.reviews.length;
   }
-  console.log(product.ratings);
-  console.log(product);
-
 
   // find the averagge of product reviews
   product.ratings =

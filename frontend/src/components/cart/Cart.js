@@ -51,6 +51,8 @@ export default function Cart() {
                   <div className="glass text-sm sm:text-base m-3 flex items-center justify-between">
                     <div>
                       <img
+            loading="lazy"
+
                         className="h-[80px] w-[80px]"
                         src={item.image}
                         alt={item.name}

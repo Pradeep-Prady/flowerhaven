@@ -30,6 +30,7 @@ export default function Profile() {
         <div className="w-full sm:w-7/12  md:w-4/12 bg-myligh px-2 py-5 sm:p-10 rounded-md ">
           <div className=" flex items-center justify-center">
             <img
+              loading="lazy"
               className="w-[150px] h-[150px] sm:w-[160px] sm:h-[160px] rounded-full "
               alt="profileImg"
               src={user?.avatar ?? profile}

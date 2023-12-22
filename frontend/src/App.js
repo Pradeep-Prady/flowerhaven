@@ -217,7 +217,7 @@ function App() {
                 }
               />
             </Routes>
-            <Footer/>
+            <Footer />
           </HelmetProvider>
         </div>
       </Router>
